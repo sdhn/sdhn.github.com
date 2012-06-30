@@ -20,9 +20,16 @@ Here's a picture from our
 Upcoming Meetup (usually last Fri every month)
 ----------------------------------------------
 
-- Jun 24th, 2011, 7:30 PM: [Broadway Coffee][], 9:30 PM: [O'Brien's][obriens]
-  - Please RSVP [here](http://anyvite.com/agwgnkifas) (The shop owner kindly sets aside tables if we provide an accurate headcount!)
-  - Please upvote [here][Jun 24th, 2011] (to help new HN readers discover our group)
+- June 29th, 2012, 7:30 PM: [Broadway Coffee][], 9:30 PM: [O'Brien's][obriens]
+  - Please RSVP [here][current anyvite] (The shop owner kindly sets aside tables if we provide an accurate headcount!)
+  - Please upvote [here][Jun 29th, 2012] (to help new HN readers discover our group)
+
+Upcoming Meetup (usually last Fri every month) Fri Apr 27th, 2012
+
+Friday, Apr 27th, 2012, 7:30 PM: Pangea Bakery Cafe, 9:30 PM: O'Brien's
+Please note the new location this month.
+Please RSVP here (The shop owner kindly sets aside tables if we provide an accurate headcount!)
+Please upvote here (to help new HN readers discover our group)
 
 San Diego SuperHappyDevHouse
 ----------------------------
@@ -34,6 +41,17 @@ Previous SDHN Meetups
 
 ### Regular SDHN monthly meetups
 
+- [Jun 29th, 2012][] 7:30 PM: [Pangea Bakery Cafe][], 9:30 PM: [O'Brien's][]
+- [May 25th, 2012][] 7:30 PM: [Pangea Bakery Cafe][], 9:30 PM: [O'Brien's][]
+- [Apr 27th, 2012][] 7:30 PM: [Pangea Bakery Cafe][], 9:30 PM: [O'Brien's][]
+- [Mar 30th, 2012][] 9:00 PM: [O'Brien's][]
+- [Feb 24th, 2012][] 7:30 PM: [Broadway Coffee][], 9:30 PM: [O'Brien's][]
+- [Jan 27th, 2012][] 7:30 PM: [Broadway Coffee][], 9:30 PM: [O'Brien's][]
+- [Dec 23rd, 2011][] 7:30 PM: [Broadway Coffee][], 9:30 PM: [O'Brien's][]
+- [Nov 18th, 2011][] 7:30 PM: [Broadway Coffee][], 9:30 PM: [O'Brien's][]
+- [Oct 28th, 2011][] 7:30 PM: [Broadway Coffee][], 9:30 PM: [O'Brien's][]
+- [Sep 30th, 2011][] 7:30 PM: [Broadway Coffee][], 9:30 PM: [O'Brien's][]
+- [Aug 26th, 2011][] 7:30 PM: [Broadway Coffee][], 9:30 PM: [O'Brien's][]
 - [Jun 24th, 2011][] 7:30 PM: [Broadway Coffee][], 9:30 PM: [O'Brien's][obriens]
 - [May 27th, 2011][] 7:30 PM: [Broadway Coffee][], 9:30 PM: [O'Brien's][obriens]
 - [Apr 29th, 2011][] 7:30 PM: [Broadway Coffee][], 9:30 PM: [O'Brien's][obriens]
@@ -58,6 +76,7 @@ Previous SDHN Meetups
 [April 2, 2010]: http://news.ycombinator.com/item?id=1237044
 [April 30, 2010]: http://news.ycombinator.com/item?id=1308886
 [May 28, 2010]: http://news.ycombinator.com/item?id=1382787
+[June 25, 2010]: http://news.ycombinator.com/item?id=1457405
 [Aug 27th 2010]: http://news.ycombinator.com/item?id=1631571
 [Sept 24th 2010]: http://news.ycombinator.com/item?id=1711429
 [Oct 29th 2010]: http://news.ycombinator.com/item?id=1839302
@@ -69,6 +88,18 @@ Previous SDHN Meetups
 [Apr 29th 2011]: http://news.ycombinator.com/item?id=2490317
 [May 27th 2011]: http://news.ycombinator.org/item?id=2585520
 [Jun 24th 2011]: http://news.ycombinator.org/item?id=2685683
+[Jul 29th, 2011]: http://news.ycombinator.com/item?id=2814770
+[Aug 26th, 2011]: http://news.ycombinator.com/item?id=2923505
+[Sep 30th, 2011]: http://news.ycombinator.com/item?id=3050894
+[Oct 28th, 2011]: http://news.ycombinator.com/item?id=3161347
+[Nov 18th, 2011]: http://news.ycombinator.org/item?id=3250133
+[Dec 23rd, 2011]: http://news.ycombinator.com/item?id=3378570
+[Jan 27th, 2012]: http://news.ycombinator.com/item?id=3513058
+[Feb 24th, 2012]: http://news.ycombinator.com/item?id=3623702
+[Mar 30th, 2012]: http://news.ycombinator.com/item?id=3773993
+[Apr 27th, 2012]: http://news.ycombinator.com/item?id=3897116
+[May 25th, 2012]: http://news.ycombinator.com/item?id=4016290
+[Jun 29th, 2012]: http://news.ycombinator.com/item?id=4174610
 
 Job posting guidelines on the mailing list
 ------------------------------------------
@@ -92,4 +123,7 @@ Links of Varying Degrees of Usefulness
 [Hacker News]: https://news.ycombinator.com
 [Broadway Coffee]: http://www.yelp.com/biz/broadway-coffee-san-diego
 [O'Brien's]: http://www.yelp.com/biz/o-briens-pub-san-diego
+[Pangea Bakery Cafe]: http://www.yelp.com/biz/pangea-bakery-cafe-san-diego
 [join mailing list]: http://groups.google.com/group/sd-hackernews/subscribe
+
+[current anyvite]: http://anyvite.com/ius5d8ytta
