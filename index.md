@@ -24,13 +24,6 @@ Upcoming Meetup (usually last Fri every month)
   - Please RSVP [here][current anyvite] (The shop owner kindly sets aside tables if we provide an accurate headcount!)
   - Please upvote [here][Jun 29th, 2012] (to help new HN readers discover our group)
 
-Upcoming Meetup (usually last Fri every month) Fri Apr 27th, 2012
-
-Friday, Apr 27th, 2012, 7:30 PM: Pangea Bakery Cafe, 9:30 PM: O'Brien's
-Please note the new location this month.
-Please RSVP here (The shop owner kindly sets aside tables if we provide an accurate headcount!)
-Please upvote here (to help new HN readers discover our group)
-
 San Diego SuperHappyDevHouse
 ----------------------------
 
