@@ -20,9 +20,9 @@ Here's a picture from our
 Upcoming Meetup (usually last Fri every month)
 ----------------------------------------------
 
-- June 29th, 2012, 7:30 PM: [Broadway Coffee][], 9:30 PM: [O'Brien's][obriens]
-  - Please RSVP [here][current anyvite] (The shop owner kindly sets aside tables if we provide an accurate headcount!)
-  - Please upvote [here][Jun 29th, 2012] (to help new HN readers discover our group)
+- July 27th, 2012, 7:30 PM: [Pangea Bakery Cafe][], 9:30 PM: [O'Brien's][obriens]
+  - Please RSVP (link coming soon) (The cafe sets aside tables if we provide an accurate headcount!)
+  - Please upvote (link coming soon) (to help new HN readers discover our group)
 
 San Diego SuperHappyDevHouse
 ----------------------------
@@ -34,6 +34,7 @@ Previous SDHN Meetups
 
 ### Regular SDHN monthly meetups
 
+- Jul 27th, 2012: 7:30 PM: [Pangea Bakery Cafe][], 9:30 PM: [O'Brien's][]
 - [Jun 29th, 2012][] 7:30 PM: [Pangea Bakery Cafe][], 9:30 PM: [O'Brien's][]
 - [May 25th, 2012][] 7:30 PM: [Pangea Bakery Cafe][], 9:30 PM: [O'Brien's][]
 - [Apr 27th, 2012][] 7:30 PM: [Pangea Bakery Cafe][], 9:30 PM: [O'Brien's][]
