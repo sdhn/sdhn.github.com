@@ -1,6 +1,6 @@
 body {
   background: url("fabric_plaid.png");
-  font-family: "PT Sans", "Helvetica Neue", sans-serif;
+  font-family: "PT Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 14px;
 }
 
@@ -44,9 +44,14 @@ a:hover, a:active, a:focus:hover {
 #footer {
   background-color: rgb(119, 119, 119);
   text-align: right;
-  padding-top: 11px;
-  height: 32px;
+  height: 31px;
+  padding-top: 10px;
+  clear: both;
   box-shadow: inset 0px 5px 5px -2px #555;
+}
+
+#footer p {
+  margin: 0px;
 }
 
 #footer a {
