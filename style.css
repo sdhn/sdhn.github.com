@@ -1,0 +1,59 @@
+body {
+  background: url("fabric_plaid.png");
+  font-family: "PT Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+}
+
+h1, h2 {
+  font-family: "Arvo", serif;
+}
+
+h1 {
+  margin: 0px;
+}
+
+a {
+  color: rgb(0, 153, 255);
+}
+
+a:link, a:visited, a:focus {
+  text-decoration: none;
+}
+
+a:hover, a:active, a:focus:hover {
+  text-decoration: underline;
+}
+
+.container {
+  width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#header {
+  background: url("orange.png");
+  height: 42px;
+  padding: 10px 0px;
+  margin-bottom: 5px;
+}
+
+#content {
+
+}
+
+#footer {
+  background-color: rgb(119, 119, 119);
+  text-align: right;
+  height: 31px;
+  padding-top: 10px;
+  clear: both;
+  box-shadow: inset 0px 5px 5px -2px #555;
+}
+
+#footer p {
+  margin: 0px;
+}
+
+#footer a {
+  color: rgb(0, 0, 0);
+}

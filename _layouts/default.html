@@ -5,8 +5,26 @@
   <title>{{ page.title }}</title>
   <meta name="description" content="{{ page.description }}">
   <meta name="viewport" content="width=device-width">
+
+  <link href='http://fonts.googleapis.com/css?family=Arvo|PT+Sans' rel='stylesheet' type='text/css'>
+
+  <link rel="stylesheet" href="blueprint/reset.css" type="text/css" />
+  <link rel="stylesheet" href="blueprint/typography.css" type="text/css" />
+  <link rel="stylesheet" href="style.css" type="text/css" />
 </head>
 <body>
-  {{ content }}
+  <div id="header">
+    <div class="container">
+      <h1>San Diego Hacker News Meetup</h1>
+    </div>
+  </div>
+  <div id="content" class="container">
+    {{ content }}
+  </div>
+  <div id="footer">
+    <div class="container">
+      <p>Design by <a href="http://www.vineel.me/">Vineel Adusumilli</a>.</p>
+    </div>
+  </div>
 </body>
 </html>
