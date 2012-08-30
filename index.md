@@ -36,7 +36,7 @@ Previous SDHN Meetups
 ### Regular SDHN monthly meetups
 
 - Aug 31st, 2012: 7:30 PM: [Pangea Bakery Cafe][], 9:30 PM: [O'Brien's][]
-- Jul 27th, 2012: 7:30 PM: [Pangea Bakery Cafe][], 9:30 PM: [O'Brien's][]
+- [Jul 27th, 2012][]: 7:30 PM: [Pangea Bakery Cafe][], 9:30 PM: [O'Brien's][]
 - [Jun 29th, 2012][] 7:30 PM: [Pangea Bakery Cafe][], 9:30 PM: [O'Brien's][]
 - [May 25th, 2012][] 7:30 PM: [Pangea Bakery Cafe][], 9:30 PM: [O'Brien's][]
 - [Apr 27th, 2012][] 7:30 PM: [Pangea Bakery Cafe][], 9:30 PM: [O'Brien's][]
@@ -96,6 +96,7 @@ Previous SDHN Meetups
 [Apr 27th, 2012]: http://news.ycombinator.com/item?id=3897116
 [May 25th, 2012]: http://news.ycombinator.com/item?id=4016290
 [Jun 29th, 2012]: http://news.ycombinator.com/item?id=4174610
+[Jul 27th, 2012]: http://news.ycombinator.com/item?id=4292648
 
 Job posting guidelines on the mailing list
 ------------------------------------------
