@@ -35,6 +35,7 @@ Previous SDHN Meetups
 
 ### Regular SDHN monthly meetups
 
+- [May 31st, 2013][]: 7:30 PM: [Pangea Bakery Cafe][], 9:30 PM: [O'Brien's][]
 - [Apr 26th, 2013][]: 7:30 PM: [Pangea Bakery Cafe][], 9:30 PM: [O'Brien's][]
 - [Mar 29th, 2013][]: 7:30 PM: [Pangea Bakery Cafe][], 9:30 PM: [O'Brien's][]
 - [Feb 22nd, 2013][]: 7:30 PM: [Pangea Bakery Cafe][], 9:30 PM: [O'Brien's][]
@@ -114,6 +115,7 @@ Previous SDHN Meetups
 [Feb 22nd, 2013]: http://news.ycombinator.com/item?id=5248324
 [Mar 29th, 2013]: https://news.ycombinator.com/item?id=5452686
 [Apr 26th, 2013]: https://news.ycombinator.com/item?id=5605397
+[May 31st, 2013]: https://news.ycombinator.com/item?id=5790224
 
 Job posting guidelines on the mailing list
 ------------------------------------------
@@ -140,4 +142,4 @@ Links of Varying Degrees of Usefulness
 [Pangea Bakery Cafe]: http://www.yelp.com/biz/pangea-bakery-cafe-san-diego
 [join mailing list]: http://groups.google.com/group/sd-hackernews/subscribe
 
-[current anyvite]: http://anyvite.com/zasnnkdwab
+[current anyvite]: http://anyvite.com/m5s0wemp7q
