@@ -18,9 +18,9 @@ Here's a picture from our
 Upcoming Meetup (usually last Fri every month)
 ----------------------------------------------
 
-- May 31, 2013, 7:30 PM: [Pangea Bakery Cafe][], 9:30 PM: [O'Brien's][obriens]
+- Jun 28, 2013, 7:30 PM: [Pangea Bakery Cafe][], 9:30 PM: [O'Brien's][obriens]
   - Please RSVP [here][current anyvite] (The cafe sets aside tables if we provide an accurate headcount!)
-  - Please [upvote][May 31st, 2013] (to help new HN readers discover our group)
+  - Please [upvote][Jun 28th, 2013] (to help new HN readers discover our group)
 
 
 [![Map](http://maps.google.com/maps/api/staticmap?center=32.826183,-117.154357&zoom=12&markers=32.826183,-117.154357&size=900x300&sensor=false&key=AIzaSyCjl3OGH0uP9fMn6O8NRb2yyHK-w1Kt3jk)](https://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=Pangea+Bakery+Cafe,+4689+Convoy+Street+%23100,+San+Diego,+CA&aq=0&oq=pangea+bakery+cafe&sll=32.824552,-117.108978&sspn=0.694722,1.233215&vpsrc=0&t=m&ie=UTF8&hq=Pangea+Bakery+Cafe,+4689+Convoy+Street+%23100,+San+Diego,+CA&hnear=&radius=15000&cid=18162738248507122637&ll=32.827962,-117.154427&spn=0.085394,0.154324&z=13&iwloc=A)
@@ -35,6 +35,7 @@ Previous SDHN Meetups
 
 ### Regular SDHN monthly meetups
 
+- [Jun 28th, 2013][]: 7:30 PM: [Pangea Bakery Cafe][], 9:30 PM: [O'Brien's][]
 - [May 31st, 2013][]: 7:30 PM: [Pangea Bakery Cafe][], 9:30 PM: [O'Brien's][]
 - [Apr 26th, 2013][]: 7:30 PM: [Pangea Bakery Cafe][], 9:30 PM: [O'Brien's][]
 - [Mar 29th, 2013][]: 7:30 PM: [Pangea Bakery Cafe][], 9:30 PM: [O'Brien's][]
@@ -116,6 +117,7 @@ Previous SDHN Meetups
 [Mar 29th, 2013]: https://news.ycombinator.com/item?id=5452686
 [Apr 26th, 2013]: https://news.ycombinator.com/item?id=5605397
 [May 31st, 2013]: https://news.ycombinator.com/item?id=5790224
+[Jun 28th, 2013]: https://news.ycombinator.com/item?id=5950064
 
 Job posting guidelines on the mailing list
 ------------------------------------------
@@ -142,4 +144,4 @@ Links of Varying Degrees of Usefulness
 [Pangea Bakery Cafe]: http://www.yelp.com/biz/pangea-bakery-cafe-san-diego
 [join mailing list]: http://groups.google.com/group/sd-hackernews/subscribe
 
-[current anyvite]: http://anyvite.com/m5s0wemp7q
+[current anyvite]: http://anyvite.com/rsuzytyrat
