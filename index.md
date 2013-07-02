@@ -21,7 +21,7 @@ Upcoming Meetup (usually last Fri every month)
 - Jul 17, 2013, 6:00 PM: [EvoNexus downtown][]
   - Please RSVP [here][current anyvite]
 
-[![Map](http://maps.google.com/maps/api/staticmap?center=101%20broadway%20avenue%2C%20san%20diego%2C%20ca%2C%2092101&zoom=15&format=png&maptype=roadmap&mobile=false&markers=|label:EvoNexus%20downtown|101%20broadway%20avenue%2C%20san%20diego%2C%20ca%2092101&size=900x300&key=&sensor=false)](http://maps.google.com/maps?q=101+Broadway,+San+Diego,+CA&hl=en&sll=32.715612,-117.164254&sspn=0.010598,0.022724&oq=101+w+broa&hnear=101+Broadway,+San+Diego,+California+92101&t=m&z=16)
+[![Map](http://maps.google.com/maps/api/staticmap?center=101%20broadway%20avenue%2C%20san%20diego%2C%20ca%2C%2092101&zoom=15&format=png&maptype=roadmap&mobile=false&markers=|label:EvoNexus%20downtown|101%20broadway%20avenue%2C%20san%20diego%2C%20ca%2092101&size=900x300&key=AIzaSyCjl3OGH0uP9fMn6O8NRb2yyHK-w1Kt3jk&sensor=false)](http://maps.google.com/maps?q=101+Broadway,+San+Diego,+CA&hl=en&sll=32.715612,-117.164254&sspn=0.010598,0.022724&oq=101+w+broa&hnear=101+Broadway,+San+Diego,+California+92101&t=m&z=16)
 
 San Diego SuperHappyDevHouse
 ----------------------------
