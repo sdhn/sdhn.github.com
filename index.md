@@ -118,7 +118,7 @@ Previous SDHN Meetups
 [Apr 26th, 2013]: https://news.ycombinator.com/item?id=5605397
 [May 31st, 2013]: https://news.ycombinator.com/item?id=5790224
 [Jun 28th, 2013]: https://news.ycombinator.com/item?id=5950064
-[Jul 17th, 2013]: 
+[Jul 17th, 2013]: about:blank
 
 Job posting guidelines on the mailing list
 ------------------------------------------
@@ -143,6 +143,7 @@ Links of Varying Degrees of Usefulness
 [Broadway Coffee]: http://www.yelp.com/biz/broadway-coffee-san-diego
 [O'Brien's]: http://www.yelp.com/biz/o-briens-pub-san-diego
 [Pangea Bakery Cafe]: http://www.yelp.com/biz/pangea-bakery-cafe-san-diego
+[EvoNexus downtown]: http://www.commnexus.org/incubator/
 [join mailing list]: http://groups.google.com/group/sd-hackernews/subscribe
 
 [current anyvite]: http://anyvite.com/qwtxzuss6m
