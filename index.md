@@ -32,7 +32,7 @@ Previous SDHN Meetups
 ---------------------
 
 ### Past SDHN meetups
-
+- [Aug 30th, 2013][]: 7:30 PM: [Pangea Bakery Cafe][], 9:30 PM: [O'Brien's][]
 - [Jul 27th, 2013][]: 7:30 PM: [Pangea Bakery Cafe][], 9:30 PM: [O'Brien's][]
 - [Jul 17th, 2013][]: 6:00 PM: [EvoNexus downtown][]
 - [Jun 28th, 2013][]: 7:30 PM: [Pangea Bakery Cafe][], 9:30 PM: [O'Brien's][]
@@ -120,6 +120,7 @@ Previous SDHN Meetups
 [Jun 28th, 2013]: https://news.ycombinator.com/item?id=5950064
 [Jul 17th, 2013]: https://news.ycombinator.com/item?id=6052790
 [Jul 27th, 2013]: https://news.ycombinator.com/item?id=6111011
+[Aug 30th, 2013]: https://news.ycombinator.com/item?id=6293333
 
 Job posting guidelines on the mailing list
 ------------------------------------------
@@ -147,4 +148,4 @@ Links of Varying Degrees of Usefulness
 [EvoNexus downtown]: http://www.commnexus.org/incubator/
 [join mailing list]: http://groups.google.com/group/sd-hackernews/subscribe
 
-[current anyvite]: http://anyvite.com/d5d1j7d4pa
+[current anyvite]: http://anyvite.com/clmla6fzjm
