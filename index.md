@@ -149,7 +149,7 @@ Links of Varying Degrees of Usefulness
 [hacker (computing)]: http://web.archive.org/web/20110715191510/http://en.wikipedia.org/wiki/Hacker_(computing)
 [Hacker News]: https://news.ycombinator.com
 [Broadway Coffee]: http://www.yelp.com/biz/broadway-coffee-san-diego
-[O'Brien's]: http://www.yelp.com/biz/o-briens-pub-san-diego
+[OBriens]: http://www.yelp.com/biz/o-briens-pub-san-diego
 [Pangea Bakery Cafe]: http://www.yelp.com/biz/pangea-bakery-cafe-san-diego
 [EvoNexus downtown]: http://www.commnexus.org/incubator/
 [join mailing list]: http://groups.google.com/group/sd-hackernews/subscribe
