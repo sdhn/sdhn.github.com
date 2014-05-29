@@ -33,6 +33,7 @@ Previous SDHN Meetups
 
 ### Past SDHN meetups
 
+- [May 30th, 2014][]: 7:30 PM: [Pangea Bakery Cafe][], 9:30 PM: [O'Brien's][]
 - [Apr 25th, 2014][]: 7:30 PM: [Pangea Bakery Cafe][], 9:30 PM: [O'Brien's][]
 - [Mar 28th, 2014][]: 7:30 PM: [Pangea Bakery Cafe][], 9:30 PM: [O'Brien's][]
 - [Feb 28th, 2014][]: 7:30 PM: [Pangea Bakery Cafe][], 9:30 PM: [O'Brien's][]
