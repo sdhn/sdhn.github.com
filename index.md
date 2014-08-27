@@ -18,7 +18,7 @@ Here's a picture from our
 Upcoming Meetup (usually last Fri every month)
 ----------------------------------------------
 
-- Jul 25, 2014, 7:30 PM: [Pangea Bakery Cafe][]
+- Aug 29, 2014, 7:30 PM: [Pangea Bakery Cafe][]
   - Please RSVP [here][current anyvite]
 
 -[![Map](http://maps.google.com/maps/api/staticmap?center=32.826183,-117.154357&zoom=12&markers=32.826183,-117.154357&size=900x300&sensor=false&key=AIzaSyCjl3OGH0uP9fMn6O8NRb2yyHK-w1Kt3jk)](https://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=Pangea+Bakery+Cafe,+4689+Convoy+Street+%23100,+San+Diego,+CA&aq=0&oq=pangea+bakery+cafe&sll=32.824552,-117.108978&sspn=0.694722,1.233215&vpsrc=0&t=m&ie=UTF8&hq=Pangea+Bakery+Cafe,+4689+Convoy+Street+%23100,+San+Diego,+CA&hnear=&radius=15000&cid=18162738248507122637&ll=32.827962,-117.154427&spn=0.085394,0.154324&z=13&iwloc=A)
@@ -33,6 +33,7 @@ Previous SDHN Meetups
 
 ### Past SDHN meetups
 
+- [Aug 29th, 2014][]: 7:30 PM: [Pangea Bakery Cafe][], 9:30 PM: [O'Brien's][]
 - [Jul 25th, 2014][]: 7:30 PM: [Pangea Bakery Cafe][], 9:30 PM: [O'Brien's][]
 - [Jun 27th, 2014][]: 7:30 PM: [Pangea Bakery Cafe][], 9:30 PM: [O'Brien's][]
 - [May 30th, 2014][]: 7:30 PM: [Pangea Bakery Cafe][], 9:30 PM: [O'Brien's][]
@@ -140,6 +141,7 @@ Previous SDHN Meetups
 [May 30th, 2014]: https://news.ycombinator.com/item?id=7817431
 [Jun 27th, 2014]: https://news.ycombinator.com/item?id=7947521
 [Jul 25th, 2014]: https://news.ycombinator.com/item?id=8077141
+[Aug 29th, 2014]: https://news.ycombinator.com/item?id=8234923
 
 Job posting guidelines on the mailing list
 ------------------------------------------
@@ -167,4 +169,4 @@ Links of Varying Degrees of Usefulness
 [EvoNexus downtown]: http://www.commnexus.org/incubator/
 [join mailing list]: http://groups.google.com/group/sd-hackernews/subscribe
 
-[current anyvite]: http://anyvite.com/herkhcjfai
+[current anyvite]: http://anyvite.com/0fvh3u6icm
