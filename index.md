@@ -149,7 +149,7 @@ Previous SDHN Meetups
 [Mar 27th, 2015]: https://news.ycombinator.com/item?id=9273436
 [Apr 24th, 2015]: https://news.ycombinator.com/item?id=9428835
 [May 29th, 2015]: https://news.ycombinator.com/item?id=9612235
-[Jun 26th, 2015]: 
+[Jun 26th, 2015]: https://news.ycombinator.com/item?id=9779558
 
 Job posting guidelines on the mailing list
 ------------------------------------------
