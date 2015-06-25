@@ -5,15 +5,12 @@ description: San Diego Hacker News Meetup
 ---
 
 
-As Jacob put it, "for the purpose of developing a [hacker][hacker subculture] community" in San Diego. Note: We're different from the [2600 group][]. Wikipedia lists 3 different meanings for ['hacker'][hacker (computing)]: We're hobbyists, tinkerers, and builders of cool things (with an entrepreneurial bent). This is different from the blackhat / whitehat hackers, who are loosely speaking, breakers of things.
+You don't specifically need to be a frequent reader of [Hacker News][].  If you're interested in startups and tech stuff, you'll fit in just fine.
 
-You don't specifically need to be a frequent reader of [Hacker News][] -- as long as you're the type of person who's interested in the types of things found on HN (hacking, startups, etc.), you'll fit in just fine.
+Our meet ups are **<font color="red">usually on the LAST FRIDAY of the month</font>**.
 
-Our meet ups are **<font color="red">usually ALWAYS on the LAST FRIDAY of the month</font>**. However, you should [join our Google Groups mailing list][join mailing list] for **<font color="red">last minute event date/time/venue details</font>** (just in case!!!)
+Please [join our mailing list][join mailing list] for **<font color="red">event announcements</font>**!
 
-Here's a picture from our
-- [5th meetup](http://farm5.static.flickr.com/4028/4650860535_e6bc596918.jpg)
-- [10th meetup](http://farm5.static.flickr.com/4066/5132147102_8742717f49.jpg) (largest turnout ever, we practically took up the entire coffee shop!)
 
 Upcoming Meetup (usually last Fri every month)
 ----------------------------------------------
@@ -22,11 +19,6 @@ Upcoming Meetup (usually last Fri every month)
   - Please RSVP [here][current event]
 
 -[![Map](http://maps.google.com/maps/api/staticmap?center=32.826183,-117.154357&zoom=12&markers=32.826183,-117.154357&size=900x300&sensor=false&key=AIzaSyCjl3OGH0uP9fMn6O8NRb2yyHK-w1Kt3jk)](https://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=Pangea+Bakery+Cafe,+4689+Convoy+Street+%23100,+San+Diego,+CA&aq=0&oq=pangea+bakery+cafe&sll=32.824552,-117.108978&sspn=0.694722,1.233215&vpsrc=0&t=m&ie=UTF8&hq=Pangea+Bakery+Cafe,+4689+Convoy+Street+%23100,+San+Diego,+CA&hnear=&radius=15000&cid=18162738248507122637&ll=32.827962,-117.154427&spn=0.085394,0.154324&z=13&iwloc=A)
-
-San Diego SuperHappyDevHouse
-----------------------------
-
-Yes, SHDH *is* in San Diego too! Official page here: <http://superhappydevhouse.org/w/page/27407662/San-Diego-SHDH>
 
 Previous SDHN Meetups
 ---------------------
