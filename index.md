@@ -15,7 +15,7 @@ Please [join our mailing list][join mailing list] for **<font color="red">event 
 Upcoming Meetup (usually last Fri every month)
 ----------------------------------------------
 
-- Jun 26, 2015, 7:30 PM: [Ansir Innovation Center][]
+- Jul 31, 2015, 7:30 PM: [Ansir Innovation Center][]
   - Please RSVP [here][current event]
 
 -[![Map](http://maps.google.com/maps/api/staticmap?center=32.826183,-117.154357&zoom=12&markers=32.826183,-117.154357&size=900x300&sensor=false&key=AIzaSyCjl3OGH0uP9fMn6O8NRb2yyHK-w1Kt3jk)](https://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=Pangea+Bakery+Cafe,+4689+Convoy+Street+%23100,+San+Diego,+CA&aq=0&oq=pangea+bakery+cafe&sll=32.824552,-117.108978&sspn=0.694722,1.233215&vpsrc=0&t=m&ie=UTF8&hq=Pangea+Bakery+Cafe,+4689+Convoy+Street+%23100,+San+Diego,+CA&hnear=&radius=15000&cid=18162738248507122637&ll=32.827962,-117.154427&spn=0.085394,0.154324&z=13&iwloc=A)
@@ -25,6 +25,7 @@ Previous SDHN Meetups
 
 ### Past SDHN meetups
 
+- [Jul 31st, 2015][]: 7:30 PM: [Ansir Innovation Center][], 9:30 PM: [O'Brien's][]
 - [Jun 26th, 2015][]: 7:30 PM: [Ansir Innovation Center][], 9:30 PM: [O'Brien's][]
 - [May 29th, 2015][]: 7:30 PM: [Ansir Innovation Center][], 9:30 PM: [O'Brien's][]
 - [Apr 24th, 2015][]: 7:30 PM: [Ansir Innovation Center][], 9:30 PM: [O'Brien's][]
@@ -150,6 +151,7 @@ Previous SDHN Meetups
 [Apr 24th, 2015]: https://news.ycombinator.com/item?id=9428835
 [May 29th, 2015]: https://news.ycombinator.com/item?id=9612235
 [Jun 26th, 2015]: https://news.ycombinator.com/item?id=9779558
+[Jul 31st, 2015]: https://news.ycombinator.com/item?id=9922797
 
 Job posting guidelines on the mailing list
 ------------------------------------------
@@ -178,4 +180,4 @@ Links of Varying Degrees of Usefulness
 [EvoNexus downtown]: http://www.commnexus.org/incubator/
 [join mailing list]: http://groups.google.com/group/sd-hackernews/subscribe
 
-[current event]: https://sdhn63.eventbrite.com
+[current event]: https://www.eventbrite.com/e/san-diego-hacker-news-meetup-64-tickets-17847447195
